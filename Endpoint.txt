@@ -1,1 +1,1 @@
-Updated content goes here
+Rap: {rap_text}, Price: {price_text}
