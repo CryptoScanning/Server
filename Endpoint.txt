@@ -1,1 +1,3 @@
-{"Playful Vampire": {"id": 2409285794, "price": "109.990", "rap": "110.786\n"}, "Radioactive Beast Mode": {"id": 2225761296, "price": "80.000", "rap": "77.897\n"}, "Super Super Happy Face": {"id": 494291269, "price": "300.000", "rap": "333.899\n"}}
+Playful Vampire (ID: 2409285794): Price = 109.990, RAP = 110.786
+Radioactive Beast Mode (ID: 2225761296): Price = 80.000, RAP = 77.897
+Super Super Happy Face (ID: 494291269): Price = 300.000, RAP = 333.899
